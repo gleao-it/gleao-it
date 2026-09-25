@@ -34,3 +34,12 @@ Trabalho reduzindo tarefas manuais através de scripts e automações — desde 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-le%C3%A3o-xavier-a9ba28224/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermeleao020@gmail.com)
+
+
+
+
+
+
+### 🐍 Snake
+
+![Snake animation](https://raw.githubusercontent.com/gleao-it/gleao-it/output/github-contribution-grid-snake-dark.svg)
