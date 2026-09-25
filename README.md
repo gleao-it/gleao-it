@@ -40,6 +40,5 @@ Trabalho reduzindo tarefas manuais através de scripts e automações — desde 
 
 
 
-### 🐍 Snake
 
 ![Snake animation](https://raw.githubusercontent.com/gleao-it/gleao-it/output/github-contribution-grid-snake-dark.svg)
